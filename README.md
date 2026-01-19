@@ -228,6 +228,7 @@
 
 ## 📂 我的其他开源项目
 
+-   **[Netease Downloader](https://github.com/toki-plus/netease-downloader)**: 一款优雅、功能丰富的网易云音乐下载器，支持无损/高品质音质、歌单/专辑批量下载、扫码登录和自动写入ID3元数据。
 -   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: 专为跨境电商卖家设计的高效USPS批量物流追踪器，支持防屏蔽抓取并生成精美Excel报告。
 -   **[AI Mixed Cut](https://github.com/toki-plus/ai-mixed-cut)**: 颠覆性AI内容生产工具，通过“解构-重构”模式将现有视频深度解析并全自动生成全新原创短视频。
 -   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: 全自动AI原生视频生成工作流，集成文生图、图生视频和文生音乐模型，一键创作AIGC短视频。
@@ -245,6 +246,7 @@
 如果这个项目对你有帮助，请不吝点亮一颗 ⭐！
 
 ## 📜 开源协议
+
 
 
 本项目基于 MIT 协议开源。详情请见 [LICENSE](LICENSE) 文件。
