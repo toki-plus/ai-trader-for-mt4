@@ -228,6 +228,7 @@ The author is not responsible for any financial losses or any other form of loss
 
 ## 📂 My Other Open-Source Projects
 
+-   **[Netease Downloader](https://github.com/toki-plus/netease-downloader)**: An elegant, feature-rich desktop application for downloading high-quality and lossless music from Netease Cloud Music, with support for playlists, albums, QR login, and automatic metadata tagging.
 -   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: An efficient USPS bulk package tracker for e-commerce sellers, featuring anti-blocking scraping and formatted Excel report generation.
 -   **[AI Mixed Cut](https://github.com/toki-plus/ai-mixed-cut)**: A groundbreaking AI content re-creation engine that deconstructs viral videos into a creative library and automatically generates new, original videos using a "Deconstruct-Reconstruct" model.
 -   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: A fully automated AI-native video generation pipeline, integrating Text-to-Image, Image-to-Video, and Text-to-Music models to create AIGC short videos with one click.
@@ -245,6 +246,7 @@ Contributions of any kind are welcome! If you have ideas for new features, found
 If this project has been helpful to you, please consider giving it a ⭐!
 
 ## 📜 License
+
 
 
 This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
