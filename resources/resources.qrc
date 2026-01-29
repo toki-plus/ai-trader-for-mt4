@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="icons/logo.png">logo.png</file>
+    <file alias="icons/down_arrow.png">down_arrow.png</file>
+</qresource>
+</RCC>

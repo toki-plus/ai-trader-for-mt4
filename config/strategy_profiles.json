@@ -1,0 +1,23 @@
+[
+  {
+    "name": "15-Minute",
+    "signal_tf": 15,
+    "trend_tf": 60,
+    "location_tf": 240,
+    "description": "Signal: 15M, Trend: 1H, Location: 4H. Fast-paced day trading."
+  },
+  {
+    "name": "1-Hour",
+    "signal_tf": 60,
+    "trend_tf": 240,
+    "location_tf": 1440,
+    "description": "Signal: 1H, Trend: 4H, Location: 1D. Standard day trading."
+  },
+  {
+    "name": "4-Hour",
+    "signal_tf": 240,
+    "trend_tf": 1440,
+    "location_tf": 10080,
+    "description": "Signal: 4H, Trend: 1D, Location: 1W. Slower swing trading."
+  }
+]

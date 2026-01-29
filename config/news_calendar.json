@@ -1,0 +1,96 @@
+{
+  "comment": "Times are in UTC. DayOfWeek: Monday=0, ..., Friday=4, Sunday=6. SpecificDate 'YYYY-MM-DD' takes precedence. week_of_month: 1 means 1st week.",
+  "events": [
+    {
+      "event_name": "US Non-Farm Payrolls",
+      "time": "12:30",
+      "frequency": "monthly",
+      "day_of_week": 4,
+      "week_of_month": 1,
+      "importance": "high",
+      "search_queries": ["US non-farm payrolls report market reaction", "NFP data impact on dollar gold", "US unemployment rate analysis"]
+    },
+    {
+      "event_name": "US CPI",
+      "time": "12:30",
+      "frequency": "monthly",
+      "day_of_month_range": [10, 16],
+      "importance": "high",
+      "search_queries": ["US CPI data release market reaction", "inflation impact on Fed policy", "consumer price index market sentiment"]
+    },
+    {
+      "event_name": "US Retail Sales",
+      "time": "12:30",
+      "frequency": "monthly",
+      "day_of_month_range": [13, 19],
+      "importance": "medium",
+      "search_queries": ["US retail sales data analysis", "consumer spending economic impact"]
+    },
+    {
+      "event_name": "US Industrial Production",
+      "time": "13:15",
+      "frequency": "monthly",
+      "day_of_month_range": [14, 18],
+      "importance": "medium",
+      "search_queries": ["US Industrial Production data analysis", "manufacturing outlook"]
+    },
+    {
+      "event_name": "US EIA Crude Oil Inventories",
+      "time": "14:30",
+      "frequency": "weekly",
+      "day_of_week": 2,
+      "importance": "medium",
+      "search_queries": ["EIA crude oil inventory report", "oil price reaction to US stockpiles"]
+    },
+    {
+      "event_name": "FOMC Decision & Press Conference",
+      "time": "18:00",
+      "frequency": "scheduled",
+      "specific_dates": ["2024-01-31", "2024-03-20", "2024-05-01", "2024-06-12", "2024-07-31", "2024-09-18", "2024-11-07", "2024-12-18", "2025-01-29", "2025-03-19", "2025-04-30", "2025-06-11", "2025-07-30", "2025-09-17", "2025-11-05", "2025-12-17"],
+      "importance": "high",
+      "search_queries": ["FOMC rate decision market reaction", "Fed statement analysis dovish hawkish", "Jerome Powell press conference summary"]
+    },
+    {
+      "event_name": "US ISM Manufacturing PMI",
+      "time": "15:00",
+      "frequency": "monthly",
+      "day_of_month_range": [1, 3],
+      "importance": "medium",
+      "search_queries": ["US ISM manufacturing PMI results", "factory activity economic outlook"]
+    },
+    {
+      "event_name": "US GDP",
+      "time": "12:30",
+      "frequency": "quarterly",
+      "day_of_month_range": [25, 31],
+      "months": [1, 4, 7, 10],
+      "importance": "high",
+      "search_queries": ["US GDP growth rate market impact", "gross domestic product economic analysis"]
+    },
+    {
+      "event_name": "UoM Consumer Sentiment",
+      "time": "14:00",
+      "frequency": "monthly",
+      "day_of_week": 4,
+      "week_of_month": 2,
+      "importance": "low",
+      "search_queries": ["University of Michigan consumer sentiment report", "consumer confidence trends"]
+    },
+    {
+      "event_name": "US Initial Jobless Claims",
+      "time": "12:30",
+      "frequency": "weekly",
+      "day_of_week": 3,
+      "importance": "low",
+      "search_queries": ["US initial jobless claims data reaction", "labor market weekly update"]
+    },
+    {
+      "event_name": "[TEST] Daily Market Open",
+      "time": "00:01",
+      "frequency": "weekly",
+      "day_of_week": [0, 1, 2, 3, 4],
+      "importance": "low",
+      "search_queries": ["forex market daily outlook", "major currency pairs technical analysis today"]
+    }
+  ]
+}

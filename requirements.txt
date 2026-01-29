@@ -1,0 +1,5 @@
+PyQt5==5.15.10
+requests==2.31.0
+mutagen==1.47.0
+cryptography==42.0.5
+qrcode==7.4.2

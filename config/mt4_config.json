@@ -1,0 +1,36 @@
+{
+  "comment": "Main Config File",
+  "models": [
+    {
+      "display_name": "DeepSeek",
+      "model_id": "deepseek-chat",
+      "api_key_env": "DEEPSEEK_API_KEY",
+      "api_base_url_env": "DEEPSEEK_API_BASE_URL"
+    },
+    {
+      "display_name": "GPT-4o",
+      "model_id": "gpt-4o",
+      "api_key_env": "OPENAI_API_KEY",
+      "api_base_url_env": "OPENAI_API_BASE_URL"
+    },
+    {
+      "display_name": "Moonshot",
+      "model_id": "moonshot-v1-128k",
+      "api_key_env": "MOONSHOT_API_KEY",
+      "api_base_url_env": "MOONSHOT_API_BASE_URL"
+    }
+  ],
+  "agent_config": {
+    "last_selected_model_id": "deepseek-chat",
+    "last_selected_profile_name": "1-Hour",
+    "trading_symbols": [
+      "AUDUSD",
+      "EURUSD",
+      "GBPUSD",
+      "NZDUSD",
+      "XAUUSD",
+      "XPTUSD",
+      "XAGUSD"
+    ]
+  }
+}
