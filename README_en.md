@@ -214,7 +214,7 @@ The author is not responsible for any financial losses or any other form of loss
       <br />
       <sub><b>WeChat</b></sub>
       <br />
-      <sub>ID: toki-plus (Note: "GitHub Customization")</sub>
+      <sub>ID: toki-plus</sub>
     </td>
     <td align="center">
       <img src="./images/gzh.png" alt="Public Account QR Code" width="200"/>
