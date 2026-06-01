@@ -216,7 +216,7 @@
       <br />
       <sub>微信号: toki-plus</sub>
       <br />
-      （请备注来意，否则不通过）
+      <sub>（请备注来意，否则不通过）</sub>
     </td>
     <td align="center">
       <img src="./images/gzh.png" alt="公众号二维码" width="200"/>
