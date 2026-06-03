@@ -1,4 +1,4 @@
-# AI-Trader-For-MT4: An LLM-Powered Autonomous Trading Bot Framework for MT4
+﻿# AI-Trader-For-MT4: An LLM-Powered Autonomous Trading Bot Framework for MT4
 
 [简体中文](./README.md) | [English](./README_en.md)
 
@@ -139,6 +139,7 @@ This is the simplest method, requiring no Python environment setup, perfect for 
         ```
 
 4.  **Run the application:**
+    
     -   Double-click the `AI-Trader-For-MT4.exe` file inside the extracted folder to launch the program.
 
 #### Method 2: For Developers - Run from Source
@@ -152,8 +153,9 @@ This method is suitable for developers who want to study, modify, or contribute 
     ```
 
 2.  **Configure the MT4 Expert Advisor (EA):**
-    -   (This step is identical to step 2 in the "For General Users" method. Please refer to the instructions above.)
-
+    
+-   (This step is identical to step 2 in the "For General Users" method. Please refer to the instructions above.)
+    
 3.  **Create and activate a Python virtual environment (recommended):**
     ```bash
     python -m venv venv
@@ -167,8 +169,9 @@ This method is suitable for developers who want to study, modify, or contribute 
     ```
 
 5.  **Configure API Keys and MT4 Path:**
-    -   (This step is identical to step 3 in the "For General Users" method. Please refer to the instructions above.)
-
+    
+-   (This step is identical to step 3 in the "For General Users" method. Please refer to the instructions above.)
+    
 6.  **Run the application:**
     ```bash
     python main.py
@@ -214,7 +217,9 @@ The author is not responsible for any financial losses or any other form of loss
       <br />
       <sub><b>WeChat</b></sub>
       <br />
-      <sub>ID: toki-plus</sub>
+      <sub>WeChat ID: toki-plus</sub>
+      <br />
+      <sub>(Please include your purpose when adding me)</sub>
     </td>
     <td align="center">
       <img src="./images/gzh.png" alt="Public Account QR Code" width="200"/>
@@ -228,14 +233,16 @@ The author is not responsible for any financial losses or any other form of loss
 
 ## 📂 My Other Open-Source Projects
 
+-   **[AI-Trader-For-MT5](https://github.com/toki-plus/ai-trader-for-mt5)**: An AI trading assistant and EA engineering framework for MetaTrader 5, combining MQL5, Python, MCP-style tool services, risk modules, and private custom development.
 -   **[Netease Downloader](https://github.com/toki-plus/netease-downloader)**: An elegant, feature-rich desktop application for downloading high-quality and lossless music from Netease Cloud Music, with support for playlists, albums, QR login, and automatic metadata tagging.
--   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: An efficient USPS bulk package tracker for e-commerce sellers, featuring anti-blocking scraping and formatted Excel report generation.
--   **[AI Mixed Cut](https://github.com/toki-plus/ai-mixed-cut)**: A groundbreaking AI content re-creation engine that deconstructs viral videos into a creative library and automatically generates new, original videos using a "Deconstruct-Reconstruct" model.
--   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: A fully automated AI-native video generation pipeline, integrating Text-to-Image, Image-to-Video, and Text-to-Music models to create AIGC short videos with one click.
--   **[AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)**: An AI-driven intelligent clipping tool that automatically analyzes and extracts "highlight moments" from long-form videos and generates viral titles.
--   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: An AI-powered Text-to-Video tool that automatically converts any script into a short video with voiceover, subtitles, and a cover, supporting script extraction/re-creation/translation.
--   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: Utilizes an innovative "High-Framerate Frame-Mixing" technique to fundamentally alter a video's data fingerprint, designed to bypass originality detection/deduplication mechanisms on major short-video platforms.
--   **[Video Mover](https://github.com/toki-plus/video-mover)**: A fully automated content creation pipeline that monitors and downloads videos, performs multi-dimensional deduplication, generates AI titles, and publishes to multiple platforms with one click.
+-   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: A batch USPS logistics tracker designed for cross-border e-commerce sellers, supporting batch tracking and Excel report generation.
+-   **[AI Mixed Cut](https://github.com/toki-plus/ai-mixed-cut)**: An AI content re-creation and mixed-cut tool that deconstructs existing videos into creative assets and automatically generates new short-form videos.
+-   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: A fully automated AI-native video generation workflow integrating text-to-image, image-to-video, and text-to-music models for one-click AIGC short video creation.
+-   **[AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)**: An AI-powered intelligent clipping tool that automatically analyzes long videos and extracts highlight clips for short-form content distribution.
+-   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: An AI-powered text-to-video workflow that turns scripts into short videos with voiceover, subtitles, and cover images.
+-   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: A video deduplication and fingerprint-reconstruction tool that changes video data characteristics through high-frame-rate frame sampling and blending.
+-   **[Video Mover](https://github.com/toki-plus/video-mover)**: An automated content creation pipeline for video monitoring, downloading, multi-dimensional processing, AI title generation, and multi-platform publishing.
+
 
 ## 🤝 Contributing
 
@@ -250,3 +257,7 @@ If this project has been helpful to you, please consider giving it a ⭐!
 
 
 This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+
